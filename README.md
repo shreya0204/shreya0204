@@ -6,7 +6,7 @@ I also enjoy creating material and have some graphic design skills. 💻<br>
 </p><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya0204&label=Profile%20views&color=0e75b6&style=flat" alt="shreya0204" /> </p>
-<h3>📫To contact me, please send an email <a href = "mailto: shreyaweb72@gmail.com" target="_blank">Here</a></h3><br>
+<h3>📫To contact me, please send an email at - shreyaweb72@gmail.com</h3><br>
 
 
 <h3 align="left">Connect with me:</h3>
