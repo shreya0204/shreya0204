@@ -13,12 +13,6 @@ I also enjoy creating material and have some graphic design skills. 💻<br>
 <p align="left">
 
 <a href="https://linkedin.com/in/shreya-agarwal-0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-agarwal-0204" height="50" width="70" /></a>
-<a href="https://www.leetcode.com/shreya0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya0204" height="50" width="70" /></a>
-<a href="https://www.codechef.com/users/shreya272" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreya272" height="50" width="70" /></a>
-<a href="https://medium.com/@www.shreyaagarwal.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@www.shreyaagarwal.com" height="50" width="70" /></a>
-<a href="https://www.hackerrank.com/shreya272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreya272" height="50" width="70" /></a>
-<a href="https://codepen.io/shreya0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreya0204" height="50" width="70" /></a>
-</p><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
