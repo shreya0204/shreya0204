@@ -1,37 +1,23 @@
-<h1 align="center">Hello there 👋, I'm Shreya Agarwal</h1>
-<br><p align="left">I'm Shreya, a web developer 🌐, and adventurer who is interested in learning new things.🤖<br>
-I'm constantly eager to learn new things and immerse myself in various technological realms. 👩‍💻<br>
-I feel I possess leadership abilities and am capable of effectively leading a group. I think of myself as dependable, patient, and industrious, and I'm always up for a new challenge. <br>
-I also enjoy creating material and have some graphic design skills. 💻<br>
+<div>
+  <h1 align="center">Hello there 👋, I'm Shreya Agarwal</h1>
+  <p align="center">🌐 Welcome to My Coding Universe!</p>
+</div>
+<br><p align="left">As a passionate Full Stack Developer, I'm all about turning coffee into code. Here in my GitHub galaxy, you'll find a diverse range of projects that showcase my journey from <code>Hello World!</code> to building complex, user-centric web applications.💻<br>
 </p><hr>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya0204&label=Profile%20views&color=0e75b6&style=flat" alt="shreya0204" /> </p>
-<h3>📫To contact me, please send an email at - shreyaweb72@gmail.com</h3><br>
+
+<p><b>🚀 Coding is My Playground:</b> I thrive on JavaScript, React.js, Node.js, and all things MERN stack. My repositories are a mix of personal challenges, open-source contributions, and a few experiments where I push the boundaries of web development.
+
+<b>🧩 Collaboration is Key:</b> I believe that the best ideas are born from teamwork. You'll see my involvement in various team projects, where I've both led and learned in equal measure. If you're into collaborative coding adventures, you're in the right place!
+
+<b>💡 Continuous Learning:</b> My GitHub is more than a code dump; it's a growth chart. I'm on an endless quest to learn, improve, and adapt, embracing the ever-evolving tech landscape.
+
+<b>👩‍💻 Projects with a Punch:</b> From the API Fortress that monitors and secures API usage, to Tralio - a no-code solution for creating professional portfolios, each project here tells a story of problem-solving, creativity, and tech wizardry.
+
+<b>🌟 Let's Connect the Dots:</b> Got an idea or project in mind? Looking for a coding partner to bring an exciting concept to life? Drop me a message or fork one of my repos. Let's make the open-source community even more vibrant together!</p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>📫To contact me, please send an email at - shreyaagarwal.connect@gmail.com</h3><br>
 
-<a href="https://linkedin.com/in/shreya-agarwal-0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-agarwal-0204" height="50" width="70" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="50"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> </p><hr><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreya0204&theme=juicyfresh)](https://github.com/shreya0204)<br><br><hr>
-
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya0204&show_icons=true&theme=algolia)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya0204&show_icons=true&locale=en&theme=algolia" alt="shreya0204" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreya0204&theme=algolia&)](https://git.io/streak-stats)
-[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreya0204&theme=react-dark)](https://github.com/shreya0204/github-readme-activity-graph)
-
-
-<br><h3>If you have any recommendations, please do not hesitate to contact me. We can discuss it over a cup of coffee ☕ that I'll get it for us.😁</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shreya0204&theme=juicyfresh)](https://github.com/shreya0204)<br>
+<br><p><b>If you have any recommendations, please do not hesitate to contact me. We can discuss it over a cup of coffee ☕😁</b></p>
