@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hello there 👋, I'm Shreya Agarwal</h1>
+  <h1 align="center">Hello there 👋, I'm Shreya Agarwal 🧑‍💻⌨️</h1>
   <p align="center">🌐 Welcome to My Coding Universe!</p>
 </div>
 <br><p align="left">As a passionate Full Stack Developer, I'm all about turning coffee into code. Here in my GitHub galaxy, you'll find a diverse range of projects that showcase my journey from <code>Hello World!</code> to building complex, user-centric web applications.💻<br>
